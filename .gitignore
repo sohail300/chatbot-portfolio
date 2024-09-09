@@ -12,6 +12,7 @@ node_modules
 dist
 dist-ssr
 *.local
+portfolio-chatbot
 
 # Editor directories and files
 .vscode/*
