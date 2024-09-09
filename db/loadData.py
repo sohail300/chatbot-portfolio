@@ -10,8 +10,8 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # Environment variables
-db_token = os.getenv('DB_TOKEN')
-db_endpoint = os.getenv('DB_ENDPOINT')
+db_token = os.environ.get('DB_TOKEN')
+db_endpoint = os.environ.get('DB_ENDPOINT')
 
 # Initialize the DB client
 client = DataAPIClient(db_token)

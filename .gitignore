@@ -13,6 +13,7 @@ dist
 dist-ssr
 *.local
 portfolio-chatbot
+penv
 
 # Editor directories and files
 .vscode/*

@@ -51,96 +51,121 @@
   },
   {
     "id": 11,
-    "title": "Languages - Skills",
-    "description": "Java, JavaScript, TypeScript, Python, PHP, Bash"
+    "title": "Skills - Languages",
+    "description": "Java, JavaScript, TypeScript, Python, Bash"
   },
   {
     "id": 12,
-    "title": "Libraries and Frameworks - Skills",
-    "description": "ReactJS, NextJS, NodeJS, Express"
+    "title": "Skills - Libraries and Frameworks",
+    "description": "ReactJS, NextJS, NodeJS, ExpressJS, Hono"
   },
   {
     "id": 13,
-    "title": "Tools - Skills",
+    "title": "Skills - Tools",
     "description": "WordPress, Linux, Git, GitHub, Figma"
   },
   {
     "id": 14,
-    "title": "Databases - Skills",
+    "title": "Skills - Databases",
     "description": "MongoDB, Firebase, PostgreSQL, Prisma"
   },
   {
     "id": 15,
-    "title": "Deployment - Skills",
-    "description": "AWS, Vercel, Cloudfare"
+    "title": "Skills - Deployment",
+    "description": "Docker, AWS, Azure, Vercel, Cloudfare"
   },
   {
     "id": 16,
+    "title": "Skills - Web3",
+    "description": "Docker, AWS, Azure, Vercel, Cloudfare"
+  },
+  {
+    "id": 17,
     "title": "Coursework",
     "description": "Data Structures and Algorithms, Object-Oriented Programming, Networking, Operating Systems, Database Management Systems"
   },
   {
-    "id": 17,
+    "id": 18,
+    "title": "Experience - Webyapar - Frontend Web Developer",
+    "description": "May 2024 - June 2024, Remote. Developed a static and fully responsive website using HTML5, CSS3, JavaScript, and Bootstrap, achieving a 100% increase in mobile compatibility."
+  },
+  {
+    "id": 19,
     "title": "Experience - GLOCYBS - Full Stack Web Developer",
     "description": "February 2024 - April 2024, Remote. Developed a Document Generator using React and ExpressJS. Developed the company website. Optimized scalable web applications."
   },
   {
-    "id": 18,
+    "id": 20,
     "title": "Experience - FIR Progress Tracking - UI/UX + Frontend Developer",
     "description": "August 2023 - January 2024, Bhagalpur. Collaborated with Bhagalpur Police to simplify FIR progress tracking. Worked with a team of 10+ students and 6 officers."
   },
   {
-    "id": 19,
+    "id": 21,
     "title": "Experience - STREEYA - UI/UX Designer",
     "description": "July 2023 - August 2023, Remote. Designed 50+ web pages for their website. Ensured a seamless user experience across various devices."
   },
   {
-    "id": 20,
+    "id": 22,
     "title": "Mega Projects - E-Kaksha",
     "description": "An innovative online course selling platform. Different interface for two levels of users - Admin and Student. Integrated secure payment gateway using Stripe. Implemented verification using OTP via email."
   },
   {
-    "id": 21,
-    "title": "Mega Projects - Expense Tracker",
-    "description": "Implemented secure user authentication and user profiles. Designed interactive graphs and an intuitive dashboard for expense tracking and financial analysis. Expense exporting feature. Reminder and Notification feature."
-  },
-  {
-    "id": 22,
+    "id": 23,
     "title": "Mega Projects - Spill",
     "description": "Spill is an anonymous feedback platform. Implemented Next Auth for Login purpose. Implemented verification of account via OTP sent through email. Utilized React Hook Form and Toast in developing UI."
   },
   {
-    "id": 23,
+    "id": 24,
+    "title": "Mega Projects - BlogFlow",
+    "description": "Blogflow is a blogging website where users will be able to write blogs using markdown. Built an in-house CMS for blogs. Implemented verification of account and Forgot Password feature via OTP sent through email."
+  },
+  {
+    "id": 25,
     "title": "Mega Projects - Rescue Radar",
     "description": "An application under which all rescue agencies are registered and which can display the location of other rescue relief agencies during natural/man made calamities. Implemented three levels of users."
   },
   {
-    "id": 24,
+    "id": 26,
+    "title": "Innovative Projects - File Shield",
+    "description": "A robust Java-based file encryption and decryption application with a user-friendly GUI. Implemented a custom cryptography algorithm. Features include batch file processing and maintaining original file structure."
+  },
+  {
+    "id": 27,
+    "title": "Innovative Projects - Invoice Scan",
+    "description": "An intelligent PDF processing application that automatically extracts critical information from invoice documents and displays them in a tabular format. Process images in the same way."
+  },
+  {
+    "id": 28,
+    "title": "Innovative Projects - Mail Mind",
+    "description": "A sophisticated web application that integrates with Gmail API to access and analyze users' emails. Uses Gemini API to automatically categorize emails into various user-defined classifications."
+  },
+  {
+    "id": 29,
     "title": "Pet Projects - Hangman Game",
     "description": "Hangman is a classic word guessing game where one player thinks of a word and the other player tries to guess it by suggesting letters within a certain number of guesses."
   },
   {
-    "id": 25,
+    "id": 30,
     "title": "Pet Projects - Exchange Rate Calculator",
     "description": "An exchange rate calculator is a tool that allows users to convert the value of one currency into another currency."
   },
   {
-    "id": 26,
+    "id": 31,
     "title": "Pet Projects - Movie Seat Booking",
     "description": "A movie seat booking application allows users to select seats for a movie in a theater and make reservations."
   },
   {
-    "id": 27,
+    "id": 32,
     "title": "Pet Projects - Color Guesser Game",
     "description": "A color guesser game presents the player with a color and requires them to guess its RGB or hexadecimal value."
   },
   {
-    "id": 28,
+    "id": 33,
     "title": "Pet Projects - Dice Game",
     "description": "A dice game involves rolling one or more dice to achieve a certain outcome, often involving points or a race to reach a target score."
   },
   {
-    "id": 29,
+    "id": 34,
     "title": "Pet Projects - Score Keeper",
     "description": "A score keeper application helps users keep track of scores for various games or activities."
   }
