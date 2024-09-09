@@ -10,7 +10,7 @@ from flask_cors import CORS  # Add this
 
 load_dotenv()
 
-genai.configure(api_key=os.environ["AI_API_KEY"])
+genai.configure(api_key=os.environ.get("AI_API_KEY"))
 model = genai.GenerativeModel('gemini-1.5-flash')
 
 app = Flask(__name__)
@@ -20,8 +20,8 @@ app = Flask(__name__)
 CORS(app, resources={r"/*": {"origins": "*"}}, supports_credentials=True)
 
 # Environment variables
-db_token = os.getenv('DB_TOKEN')
-db_endpoint = os.getenv('DB_ENDPOINT')
+db_token = os.environ.get('DB_TOKEN')
+db_endpoint = os.environ.get('DB_ENDPOINT')
 
 # Initialize the DB client
 client = DataAPIClient(db_token)
