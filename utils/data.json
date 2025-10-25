@@ -17,7 +17,7 @@
   {
     "id": 4,
     "title": "Portfolio",
-    "description": "https://www.heysohail.me"
+    "description": "https://www.heysohail.xyz"
   },
   {
     "id": 5,
@@ -34,139 +34,92 @@
     "title": "Twitter",
     "description": "https://twitter.com/sohail_twts"
   },
-  {
-    "id": 8,
-    "title": "IIIT Bhagalpur - College",
-    "description": "B.Tech in Computer Science and Engineering, will graduate in June 2025, CGPA: 7.75"
-  },
+
   {
     "id": 9,
-    "title": "SAPS",
-    "description": "Senior Secondary School, Graduated in September 2020, Percentage: 92.6"
+    "title": "Experience - StudyHQ - Full Stack Web Developer Intern",
+    "description": "August 2025 - Present, Hyderabad. Built and optimized a multi-tenant study & counselling SaaS platform using Spring Boot and React, supporting secure student dashboards and course management for 500+ users. Enhanced security and scalability using JWT auth, Redis sessions, and Virtual Threads for high concurrency. Fixed 800+ Sonar issues, improving maintainability score by 35%."
   },
   {
     "id": 10,
-    "title": "De Nobili School",
-    "description": "High School, Graduated in April 2018, Percentage: 89.8"
+    "title": "Experience - Sociolinq - Full Stack Web Developer",
+    "description": "May 2025 - July 2025, Remote. Designed and delivered 200+ scalable APIs using FastAPI with Pydantic validation and custom error handling, achieving <100ms average response times and reliable HRMS integrations."
   },
   {
     "id": 11,
-    "title": "Skills - Languages",
-    "description": "Java, JavaScript, TypeScript, Python, Bash"
+    "title": "Experience - Sociolinq - Full Stack Web Developer Intern",
+    "description": "November 2024 - April 2025, Remote. Built modular HRMS frontend using React, MUI, and TailwindCSS with reusable components. Normalized 80+ relational schemas to support HR features like payroll, leave management, and recruitment."
   },
   {
     "id": 12,
-    "title": "Skills - Libraries and Frameworks",
-    "description": "ReactJS, NextJS, NodeJS, ExpressJS, Hono"
-  },
-  {
-    "id": 13,
-    "title": "Skills - Tools",
-    "description": "WordPress, Linux, Git, GitHub, Figma"
-  },
-  {
-    "id": 14,
-    "title": "Skills - Databases",
-    "description": "MongoDB, Firebase, PostgreSQL, Prisma"
-  },
-  {
-    "id": 15,
-    "title": "Skills - Deployment",
-    "description": "Docker, AWS, Azure, Vercel, Cloudfare"
-  },
-  {
-    "id": 16,
-    "title": "Skills - Web3",
-    "description": "Docker, AWS, Azure, Vercel, Cloudfare"
-  },
-  {
-    "id": 17,
-    "title": "Coursework",
-    "description": "Data Structures and Algorithms, Object-Oriented Programming, Networking, Operating Systems, Database Management Systems"
-  },
-  {
-    "id": 18,
     "title": "Experience - Webyapar - Frontend Web Developer",
     "description": "May 2024 - June 2024, Remote. Developed a static and fully responsive website using HTML5, CSS3, JavaScript, and Bootstrap, achieving a 100% increase in mobile compatibility."
   },
   {
-    "id": 19,
+    "id": 13,
     "title": "Experience - GLOCYBS - Full Stack Web Developer",
     "description": "February 2024 - April 2024, Remote. Developed a Document Generator using React and ExpressJS. Developed the company website. Optimized scalable web applications."
   },
+   
+
   {
-    "id": 20,
-    "title": "Experience - FIR Progress Tracking - UI/UX + Frontend Developer",
-    "description": "August 2023 - January 2024, Bhagalpur. Collaborated with Bhagalpur Police to simplify FIR progress tracking. Worked with a team of 10+ students and 6 officers."
-  },
-  {
-    "id": 21,
-    "title": "Experience - STREEYA - UI/UX Designer",
-    "description": "July 2023 - August 2023, Remote. Designed 50+ web pages for their website. Ensured a seamless user experience across various devices."
-  },
-  {
-    "id": 22,
-    "title": "Mega Projects - E-Kaksha",
-    "description": "An innovative online course selling platform. Different interface for two levels of users - Admin and Student. Integrated secure payment gateway using Stripe. Implemented verification using OTP via email."
-  },
-  {
-    "id": 23,
-    "title": "Mega Projects - Spill",
+    "id": 14,
+    "title": "Project - Spill",
     "description": "Spill is an anonymous feedback platform. Implemented Next Auth for Login purpose. Implemented verification of account via OTP sent through email. Utilized React Hook Form and Toast in developing UI."
   },
   {
-    "id": 24,
-    "title": "Mega Projects - BlogFlow",
-    "description": "Blogflow is a blogging website where users will be able to write blogs using markdown. Built an in-house CMS for blogs. Implemented verification of account and Forgot Password feature via OTP sent through email."
+    "id": 15,
+    "title": "Project - VisualiseAI",
+    "description": "AI-powered image editing tool with 200+ visits. Tech Stack: NextJS, ShadCN, Tailwind CSS, TypeScript, CloudinaryAI. Integrated Cloudinary AI for intelligent image processing and generative fill."
   },
   {
-    "id": 25,
-    "title": "Mega Projects - Rescue Radar",
-    "description": "An application under which all rescue agencies are registered and which can display the location of other rescue relief agencies during natural/man made calamities. Implemented three levels of users."
+    "id": 16,
+    "title": "Project - PingBot",
+    "description": "Website monitoring tool with 20+ users. Tech Stack: ReactJS, Clerk, FastAPI, PostgreSQL, SQLAlchemy, APScheduler, Celery, Redis. Built full-stack monitoring system with scheduled pings and email downtime alerts."
   },
   {
-    "id": 26,
-    "title": "Innovative Projects - File Shield",
-    "description": "A robust Java-based file encryption and decryption application with a user-friendly GUI. Implemented a custom cryptography algorithm. Features include batch file processing and maintaining original file structure."
+    "id": 17,
+    "title": "Project - E-Kaksha",
+    "description": "Online course selling platform with LMS. Tech Stack: React, Tailwind CSS, TypeScript, ExpressJS, MongoDB, Firebase. Built separate Admin and Student interfaces with Stripe payments and Firebase storage."
   },
   {
-    "id": 27,
-    "title": "Innovative Projects - Invoice Scan",
+    "id": 18,
+    "title": "Project - Invoice Scan",
     "description": "An intelligent PDF processing application that automatically extracts critical information from invoice documents and displays them in a tabular format. Process images in the same way."
   },
   {
-    "id": 28,
-    "title": "Innovative Projects - Mail Mind",
-    "description": "A sophisticated web application that integrates with Gmail API to access and analyze users' emails. Uses Gemini API to automatically categorize emails into various user-defined classifications."
+    "id": 19,
+    "title": "Skills - Languages",
+    "description": "Java, JavaScript, TypeScript, Python"
   },
   {
-    "id": 29,
-    "title": "Pet Projects - Hangman Game",
-    "description": "Hangman is a classic word guessing game where one player thinks of a word and the other player tries to guess it by suggesting letters within a certain number of guesses."
+    "id": 20,
+    "title": "Skills - Libraries and Frameworks",
+    "description": "ReactJS, NextJS, NodeJS, ExpressJS, FastAPI, Spring Boot, React Native"
   },
   {
-    "id": 30,
-    "title": "Pet Projects - Exchange Rate Calculator",
-    "description": "An exchange rate calculator is a tool that allows users to convert the value of one currency into another currency."
+    "id": 21,
+    "title": "Skills - Databases",
+    "description": "MongoDB, Firebase, PostgreSQL, Prisma"
   },
   {
-    "id": 31,
-    "title": "Pet Projects - Movie Seat Booking",
-    "description": "A movie seat booking application allows users to select seats for a movie in a theater and make reservations."
+    "id": 22,
+    "title": "Skills - DevOps",
+    "description": "Docker, AWS, Cloudflare, CI/CD"
   },
   {
-    "id": 32,
-    "title": "Pet Projects - Color Guesser Game",
-    "description": "A color guesser game presents the player with a color and requires them to guess its RGB or hexadecimal value."
+    "id": 23,
+    "title": "Coursework",
+    "description": "Data Structures and Algorithms, Object-Oriented Programming, Networking, Operating Systems, Database Management Systems"
   },
   {
-    "id": 33,
-    "title": "Pet Projects - Dice Game",
-    "description": "A dice game involves rolling one or more dice to achieve a certain outcome, often involving points or a race to reach a target score."
+    "id": 24,
+    "title": "Education - IIIT Bhagalpur",
+    "description": "B.Tech in Computer Science and Engineering, November 2021 – June 2025, CGPA: 7.75"
   },
   {
-    "id": 34,
-    "title": "Pet Projects - Score Keeper",
-    "description": "A score keeper application helps users keep track of scores for various games or activities."
+    "id": 25,
+    "title": "Education - Sree Ayyappa Public School",
+    "description": "Senior Secondary School, April 2018 – September 2020, Percentage: 92.6%"
   }
 ]
